@@ -47,7 +47,7 @@ body {
     align-items: center;
     padding: 15px 10%;
     background-color: var(--white);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 4px 12px rgba(209, 24, 24, 0.08);
     position: sticky;
     top: 0;
     z-index: 1000;
